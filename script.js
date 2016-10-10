@@ -1,3 +1,3 @@
-if(typeof jQuery === "function"){
-  console.log('jQuery loaded!')
-}
+$(document).ready(function(){
+  console.log("hello world")
+})
